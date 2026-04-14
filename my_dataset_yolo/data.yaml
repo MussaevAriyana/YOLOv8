@@ -1,0 +1,11 @@
+path: my_dataset_yolo
+train: images/train
+val: images/val
+test: images/val
+
+nc: 4
+names:
+  - cat
+  - dog
+  - bird
+  - eye
